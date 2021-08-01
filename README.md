@@ -1,4 +1,6 @@
-# CRM
+# Projeto realizado no Labs da Digital Innovation One
+
+### Implementando um sistema de gestão de clientes com cadastro, listagem e exclusão
 
 Projeto criado para a plataforma de ensino open education [Digital Innovation One](https://digitalinnovation.one/)
 
